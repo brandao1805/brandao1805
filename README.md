@@ -22,6 +22,6 @@ I'm a Computer Science student at FEI (Fundação Educacional Inaciana). I'm pas
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao1805&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao1805&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandao1805&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandao1805&layout=compact&theme=tokyonight)
