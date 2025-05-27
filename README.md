@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at FEI (Fundação Educacional Inaciana). I'm passionate about technology and always eager to learn and improve my skills. Currently, I'm developing projects using Java, Python, C, HTML, CSS, and JavaScript. I'm also interested in graphic design, with experience in Adobe Photoshop, Illustrator, InDesign, and CorelDRAW.
 
-### 🛠️ Technologies and Tools I work with:
+### 🛠️ Technologies and tools that I am learning and have already learned:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
